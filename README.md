@@ -40,6 +40,7 @@ This visual is the most important part of the dashboard. It plots two different 
 ![Valuation Line Chart over the years 2020-2024](<./images/Valuation Line Chart over the years 2020-2024.png>)
 
 This chart compares EPS (Earnings Per Share) and BVPS (Book Value Per Share). It answers the question "Why is the stock worth more now than in 2020?" The bars show that the company has nearly doubled its book value in just a few years. It proves that management isn't just talking about growth; they are actually building a bigger, wealthier company:
+
 ![The P/E and P/B over the years 2020-2024](<./images/The PE and PB over the years 2020-2024.png>)
 
 
