@@ -30,9 +30,11 @@
 7. Adding the current Book Value to the present value of all future excess profits results in an estimated Intrinsic Value of roughly $278.11 per share.
 
 The Residual Income Valuation:
+
 ![The Residual Income Valuation](<./images/The Residual Income Valuation.png>)
 
 Here is the result of the Valuation Summary explained above:
+
 ![The Valuation Summary](<./images/The Valuation Summary.png>)
 
 This visual is the most important part of the dashboard. It plots two different "safety lines." One line shows what the price should be based on Earnings (P/E), and the other shows what it should be based on Book Value (P/B). You’ll notice that while the Earnings line bounces around because profits can be volatile, the Book Value line moves up steadily. This shows that the company’s "floor value" is rising every single year:
